@@ -35,6 +35,6 @@ df['Diff'] = df.apply(lambda row : row['F'] - row['A'], axis = 1)
 # find the minimum value for the new column and print the corresponding
 # team, differential, points for, and points against
 print('The team with the lowest point differential is', \
-      df['Diff'].idxmin(), 'with a point differential of',df['Diff'].min())
+      df['Diff'].idxmin(), 'with a point differential of',str(df['Diff'].min()))
 print('Points For: ', str(df.loc[df['Diff'].idxmin()].F))
 print('Points Against: ', str(df.loc[df['Diff'].idxmin()].A))
