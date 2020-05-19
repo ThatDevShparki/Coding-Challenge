@@ -23,13 +23,17 @@ In order to run both of the Python programs, you must have both pandas and re in
 weather_spread.py Output:
 
 The day with the smallest temperature spread is Day 14 with a spread of 2
+
 Maximum Temperature: 61
+
 Minimum Temperature: 59
 
 point_difference.py Output:
 
 The team with the lowest point differential is Leicester with a point differential of -34
+
 Points For:  30
+
 Points Against:  64
 
 ## Authors
