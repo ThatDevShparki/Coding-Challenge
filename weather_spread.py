@@ -35,6 +35,6 @@ df['Spread'] = df.apply(lambda row : row['MxT'] - row['MnT'], axis = 1)
 # find the minimum value for the new column and print the corresponding
 # day, temperature spread, max temp, min temp
 print('The day with the smallest temperature spread is Day', \
-      df['Spread'].idxmin(), 'with a spread of',df['Spread'].min())
+      df['Spread'].idxmin(), 'with a spread of',str(df['Spread'].min()))
 print('Maximum Temperature:', str(df.loc[df['Spread'].idxmin()].MxT))
 print('Minimum Temperature:', str(df.loc[df['Spread'].idxmin()].MnT))
