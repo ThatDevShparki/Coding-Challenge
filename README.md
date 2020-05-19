@@ -15,7 +15,7 @@ After completing the first program, I realized the importance of understanding t
 
 ### Prerequisites
 
-In order to run both of the Python files, you must have both pandas and re installed and download the corresponding data files. When running the programs, make sure the data files are in the same location. Otherwise, you will need to edit the file location in the python code. 
+In order to run both of the Python programs, you must have both pandas and re installed and the corresponding data files. When running the programs, make sure the data files are in the same location. Otherwise, you will need to edit the file location in the python code. 
 
 
 ## Results
