@@ -1,10 +1,7 @@
 # Coding-Challenge
 
 ### Files:
-weather_spread.py \n
-point_difference.py
-w_data (5).dat
-soccer.dat
+weather_spread.py, point_difference.py, w_data (5).dat, soccer.dat
 
 ### Description
 
@@ -39,4 +36,4 @@ Ryan Sheppard
 
 ## Acknowledgments
 
-Thank you for the Coding Challenge! I truly enjoyed it and look forward to the next steps!
+Thank you for the Coding Challenge! I truly enjoyed it and I look forward to the next steps!
