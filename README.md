@@ -1,7 +1,13 @@
 # Coding-Challenge
 
 ### Files:
-weather_spread.py, point_difference.py, w_data (5).dat, soccer.dat
+weather_spread.py
+
+point_difference.py
+
+w_data (5).dat
+
+soccer.dat
 
 ### Description
 
